@@ -1,0 +1,2 @@
+Use 'A' of 'Left' key for left movement.
+Use 'D' of 'Right' key for Right movement.
